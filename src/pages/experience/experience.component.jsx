@@ -26,10 +26,9 @@ const Experience = () => {
                     <h3>Perc-<b>75.5%</b></h3>
                     <strong className="body-title-style ">Full Stack Developer</strong>
                     <br />
-                    <strong>Technology:</strong> React JS, JavaScript, C++, MS-SQL,NodeJs
+                    <strong>Technology:</strong> React JS, JavaScript, C++, MY-SQL,NodeJs
                     <br />
-                    <strong>Duration:</strong> June 2019 - Present
-                    <br/>
+                   
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Developed &amp; enhanced</strong> multiple features with customizability option across web application.</li>

@@ -25,7 +25,7 @@ const App=()=>{
     <TitleMessage />
     <Particles className="particles particles-box" params={particlesOptions}/>
     <div>
-      <Parallax blur={{ min:-30, max:30}} bgImage={require("./assets/img/parallex/background.webp")} bgImageAlt="" strength={-200}>
+      <Parallax className="para22" blur={{ min:-30, max:30}} bgImage={require("./assets/img/parallex/about_back.webp")} bgImageAlt="" strength={-200}>
         <Container className="container-box rounded">
         <Fade duration={500}> 
         <About />
