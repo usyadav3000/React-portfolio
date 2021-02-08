@@ -125,7 +125,7 @@ const TimeLine = () => {
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
+                  href="https://github.com/usyadav3000/React-portfolio"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -222,7 +222,7 @@ const TimeLine = () => {
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-nodejs-expressjs-activity-6712281977107603456-oH6t"
+                  href="https://github.com/usyadav3000/React-portfolio"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -318,7 +318,7 @@ const TimeLine = () => {
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.youtube.com/watch?v=K3h95l2YxmY&feature=youtu.be"
+                  href="https://github.com/usyadav3000/React-portfolio"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -417,7 +417,7 @@ const TimeLine = () => {
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.youtube.com/watch?v=ZZYSpi_blL0"
+                  href="https://github.com/usyadav3000/React-portfolio"
                   target="_blank"
                 >
                   WATCH VIDEO
@@ -711,7 +711,7 @@ const TimeLine = () => {
                 </Accordion>
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton href="https://youtu.be/PCwEuW4OmWA" target="_blank">
+                <UrlButton href="https://github.com/usyadav3000/React-portfolio" target="_blank">
                   WATCH VIDEO
                 </UrlButton>
               </div>
